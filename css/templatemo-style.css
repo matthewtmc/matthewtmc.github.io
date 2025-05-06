@@ -257,9 +257,6 @@ a:hover, a:active, a:focus {
   animation: spinner .6s linear infinite;
 }
 
-@-webkit-@keyframes spinner {
-  to {transform: rotate(360deg);}
-}
 
 @keyframes spinner {
   to {transform: rotate(360deg);}
